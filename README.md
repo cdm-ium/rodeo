@@ -1,6 +1,6 @@
 # rodeo
 
-PaymentRequest Service
+Picture Service
 
 
 ## Quickstart
